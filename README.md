@@ -1,4 +1,4 @@
 # Digit Generator
-Using a GAN to generate digits resembling the MNIST dataset.<br>
+Using a DCGAN to generate digits resembling the MNIST dataset.<br>
 
-Run over 50 epochs
+Run over 50 epochs. Used TensorFlow and Keras.
